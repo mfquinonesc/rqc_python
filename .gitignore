@@ -5,3 +5,5 @@ venv/
 *.txt
 !requirements.txt
 REQUISICIONES_MASIVOS*.txt
+!docs/examples/
+!docs/examples/*.txt
