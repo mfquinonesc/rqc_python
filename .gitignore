@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.txt
+!requirements.txt
+REQUISICIONES_MASIVOS*.txt
